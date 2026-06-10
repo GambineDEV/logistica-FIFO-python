@@ -19,4 +19,4 @@ Em operações logísticas de alto volume, manter o controle exato de qual pedid
 
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone [https://github.com/SeuUsuario/sistema-gestao-expedicao.git](https://github.com/SeuUsuario/sistema-gestao-expedicao.git)
+   git clone [https://github.com/GambineDEV/logistica-FIFO-python.git](https://github.com/GambineDEV/logistica-FIFO-python.git)
